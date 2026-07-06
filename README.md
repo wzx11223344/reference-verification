@@ -216,6 +216,4 @@ reference-verification/
 ---
 
 <p align="center">
-  <b>Created by WorkBuddy AI · 原创内容 · 禁止抄袭</b><br>
-  GitHub: <a href="https://github.com/wzx11223344">@wzx11223344</a>
 </p>
